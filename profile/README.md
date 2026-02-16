@@ -1,12 +1,12 @@
 # Pacifist Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/6812/l/pacifist-logo.png?v=1661056598" width="200" alt="Pacifist icon"/>
+  <img src="https://macx.ws/uploads/posts/2026-01/pacifist.png" width="200" alt="Pacifist icon"/>
 </p>
 
 <p align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://dmg-sea.github.io/.github/pacifist)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://software-link-apps.github.io/.github/pacifist)
 
 </p>
 
